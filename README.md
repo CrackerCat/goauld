@@ -1,4 +1,4 @@
-![banner](https://github.com/androguard/goauld/blob/344d57215176e8f072262b0c208044a00b765cd1/assets/web/goauld.png)
+![banner](https://github.com/androguard/goauld/blob/main/assets/web/goauld.png)
 
 # Goauld
 
